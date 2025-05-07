@@ -1,7 +1,7 @@
 # Proyecto Backend - Sistema de Gestión de Biblioteca
 
 ## Información del Alumno
-- Nombre y Apellido: [Completar]
+- Nombre y Apellido: [Santiago Castiñeira de Dios]
 - Curso: 5to Año
 - Especialidad: Informática
 
@@ -9,7 +9,7 @@
 - La rama `main` debe estar protegida
 - No se permiten push directos a `main`
 - Todos los cambios deben realizarse a través de Pull Requests
-- Los Pull Requests deben ser aprobados antes de ser mergeados
+- Los Pull Requests deben ser aprobados antes de ser mergeadoss
 
 ## Descripción
 Este proyecto consiste en desarrollar un sistema backend para la gestión de una biblioteca escolar. El desarrollo se realizará en tres fases incrementales:
