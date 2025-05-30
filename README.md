@@ -9,7 +9,7 @@
 - La rama `main` debe estar protegida
 - No se permiten push directos a `main`
 - Todos los cambios deben realizarse a través de Pull Requests
-- Los Pull Requests deben ser aprobados antes de ser mergeados
+- Los Pull Requests deben ser aprobados antes de ser mergeadoss
 
 ## Descripción
 Este proyecto consiste en desarrollar un sistema backend para la gestión de una biblioteca escolar. El desarrollo se realizará en tres fases incrementales:
